@@ -9,4 +9,4 @@
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B8%99%20maru%20hub.lua"))()
 
 --ปกติ
---loadstring(game:HttpGet("https://raw.githubusercontent.com/co0dename02AE/GG_PC/main/%E0%B8%9B%E0%B8%81%E0%B8%95%E0%B8%B4%20maru%20hub%20%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B9%81%E0%B8%A1%E0%B8%9E"))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/%E0%B8%9B%E0%B8%81%E0%B8%95%E0%B8%B4%20maru%20hub%20%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B9%81%E0%B8%A1%E0%B8%9E"))()

@@ -1,4 +1,7 @@
---[[
+getgenv().Key = "MARU-L3TZ1-GIPFA-ZAZN-X4VKD-49CV"
+getgenv().id = "530362772068892672"
+
+--GG[[
 repeat task.wait() until game:IsLoaded()
 repeat task.wait() until game.Players
 repeat task.wait() until game.Players.LocalPlayer
@@ -100,9 +103,6 @@ _G.GunSettings = { -- ปืนที่จะทำ
     ['SerpentBow'] = true,
     ['SoulGuitar'] = true
 }
+getgenv().Script_Mode = "Kaitun_Script"
  --Script Here !!!]]
-
-getgenv().Key = "MARU-L3TZ1-GIPFA-ZAZN-X4VKD-49CV"
-getgenv().id = "530362772068892672"
---getgenv().Script_Mode = "Kaitun_Script"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()

@@ -1,4 +1,4 @@
-repeat task.wait() until game:IsLoaded()
+--[[repeat task.wait() until game:IsLoaded()
 repeat task.wait() until game.Players
 repeat task.wait() until game.Players.LocalPlayer
 repeat task.wait() until game.Players.LocalPlayer:FindFirstChild("PlayerGui")
@@ -99,7 +99,7 @@ _G.GunSettings = { -- ปืนที่จะทำ
     ['SerpentBow'] = true,
     ['SoulGuitar'] = true
 }
--- Script Here !!!
+-- Script Here !!!]]
 
 getgenv().Key = "MARU-L3TZ1-GIPFA-ZAZN-X4VKD-49CV"
 getgenv().id = "530362772068892672"

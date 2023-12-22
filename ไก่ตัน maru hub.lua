@@ -1,4 +1,3 @@
-
 --
 repeat task.wait() until game:IsLoaded()
 repeat task.wait() until game.Players
@@ -22,7 +21,7 @@ _G.MainSettings = {
         ["EnabledHOP"] = true, -- เปิด HOP ( มันไม่มีอยู่ละใส่มาเท่ๆ )
         ['FPSBOOST'] = true, -- ภาพกาก
         ["FPSLOCKAMOUNT"] = 60, -- จำนวน FPS
-        ['WhiteScreen'] = false, -- จอขาว
+        ['WhiteScreen'] = true, -- จอขาว
         ['CloseUI'] = true, -- ปิด Ui
         ["NotifycationExPRemove"] = false, -- ลบ ExP ที่เด้งตอนฆ่ามอน
         ['AFKCheck'] = 150, -- ถ้ายืนนิ่งเกินวิที่ตั้งมันจะรีเกม

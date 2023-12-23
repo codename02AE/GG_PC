@@ -2,10 +2,10 @@ _G.Team = "Pirates"
 _G.FpsBoost = false
 _G.Webhook = ""
 
-getgenv().Chatkill = {
-    "I'm Using Synergy Hub", "No Skill? Use Synergy Hub now", "I got the Synergy Hub auto bounty script",
-    "hello i'm the founder of Synergy Hub"
-}
+-- getgenv().Chatkill = {
+--     "I'm Using Synergy Hub", "No Skill? Use Synergy Hub now", "I got the Synergy Hub auto bounty script",
+--     "hello i'm the founder of Synergy Hub"
+-- }
 getgenv().Region_Hop = {
     ["Enable"] = true, -- true/false
     ["Region"] = "Singapore"

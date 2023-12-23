@@ -14,5 +14,4 @@
 --ล่าค่าหัวผล
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/ล่าค่าหัวผล.lua"))()
 
---loadstring(game:HttpGet("https://raw.githubusercontent.com/CFrame3310/CFrameHub/main/Mobile_Loader.lua"))()
 loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()

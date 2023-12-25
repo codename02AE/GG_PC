@@ -1,7 +1,7 @@
 print("Start")
 
-
 wait(20)
+print("Starter")
 --PC
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/PC.lua"))()
 

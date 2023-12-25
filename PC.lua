@@ -15,9 +15,3 @@ print("Start")
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/ล่าค่าหัวผล.lua"))()
 
 --loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()
-
-
-getgenv().Key = "MARU-L3TZ1-GIPFA-ZAZN-X4VKD-49CV"
-getgenv().id = "530362772068892672"
-getgenv().Script_Mode = "Kaitun_Script"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xshiba/MaruBitkub/main/Mobile.lua"))()

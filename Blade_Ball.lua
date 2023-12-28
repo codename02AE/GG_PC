@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ForYourHead/NoHaxV2/main/NohaxBladeBall"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/toosiwhip/statue/main/joe.lua'))()

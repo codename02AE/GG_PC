@@ -18,7 +18,9 @@ print("Starter")
 --ล่าค่าหัวผล
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/ล่าค่าหัวผล.lua"))()
 
---Blade Ball 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))()
+--Blade Ball
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/-beta-/main/AutoParry.lua"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/Blade_Ball.lua"))()
 
 --loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()

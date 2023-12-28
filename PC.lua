@@ -22,4 +22,4 @@ print("Starter")
 -- loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/Blade_Ball.lua"))()
 
 --Mukuro HUB
---loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()

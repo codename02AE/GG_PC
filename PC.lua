@@ -27,5 +27,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/ma
 -- loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()
 
 -- loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/DonateMe/main/OldBf"))()
-
--- เฟยโง่123

@@ -1,4 +1,6 @@
 print("Start")
+-- rejoin.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/rejoin.lua"))()
 _G.UI_Size = 200 -- config ui size
 
 -- wait(20)

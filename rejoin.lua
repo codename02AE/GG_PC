@@ -6,7 +6,7 @@ po.ChildAdded:connect(function(a)
     if a.Name == 'ErrorPrompt' then
 		repeat
             ts:Teleport(game.PlaceId)
-            sleep(2)
+            sleep(0.1)
         until false
     end
 end)

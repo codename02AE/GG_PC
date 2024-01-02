@@ -20,9 +20,9 @@ _G.Setting = {
     ["FruitStuff"] = true, -- Auto Buy and Store Fruits
     ["Run"] = 3500, -- As the name, you'll run when the health below ...
     ["MaxHealth"] = 5000,
-    ["Time&Bounty Counter"] = true,
+    ["Time&Bounty Counter"] = false,
     ["Click Delay"] = 0,
-    ["SkipPlayerWhenBeingLowHealth"] = false,
+    ["SkipPlayerWhenBeingLowHealth"] = true,
     ["Check"] = {
         ["V4 Players"] = true,
         ["Portal Users"] = false,
@@ -52,7 +52,7 @@ _G.Setting = {
     },
     ["Fruit"] = {
         ["Time"] = 1,
-        ["Enable"] = true,
+        ["Enable"] = false,
         ["Z"] = {["Enable"] = true, ["HoldTime"] = 1.75},
         ["X"] = {["Enable"] = true, ["HoldTime"] = 0},
         ["C"] = {["Enable"] = true, ["HoldTime"] = 0},
@@ -61,7 +61,7 @@ _G.Setting = {
     },
     ["Sword"] = {
         ["Time"] = 1,
-        ["Enable"] = false,
+        ["Enable"] = true,
         ["Z"] = {["Enable"] = true, ["HoldTime"] = 0},
         ["X"] = {["Enable"] = true, ["HoldTime"] = 0},
     },

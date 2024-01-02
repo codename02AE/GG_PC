@@ -8,7 +8,7 @@ _G.Webhook = ""
 -- }
 getgenv().Region_Hop = {
     ["Enable"] = true, -- true/false
-    ["Region"] = "Singapore"
+    ["Region"] = "United States"
     --[[Singapore, United States, Germany, Japan, France, Australia, etc
         - Singapore is the best choice for Asia
     ]]

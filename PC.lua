@@ -1,5 +1,4 @@
 print("Start")
-_G.UI_Size = 200 -- config ui size
 
 -- wait(20)
 print("Starter")
@@ -18,13 +17,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/ma
 --ล่าค่าหัวผล
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/ล่าค่าหัวผล.lua"))()
 
---Blade Ball
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/Blade_Ball.lua"))()
-
---Mukuro HUB
--- loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()
-
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/xQuartyx/DonateMe/main/OldBf"))()
-
---ส่วนเสริม
-loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/rejoin.lua"))()
+----add-on----
+loadstring(game:HttpGet("https://raw.githubusercontent.com/codename02AE/GG_PC/main/add-on"))()
